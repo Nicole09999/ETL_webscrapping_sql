@@ -1,10 +1,4 @@
-# ETL_webscrapping_sql
-
-Here's the README file for the provided code:
-
----
-
-# ETL Operations on Country-GDP Data
+# ETL Operations on world largest banks Data
 
 This Python script performs ETL (Extract, Transform, Load) operations on data related to the largest banks, extracted from a Wikipedia page.
 
