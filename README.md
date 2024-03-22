@@ -47,22 +47,22 @@ This README provides an overview of the code, its usage, prerequisites, files in
 
 ![Task 1: Log Function](
 <img width="323" alt="Task_1_log_function" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/0b0abbf2-f2bc-4abd-b707-806dae24172d">)
-
-<img width="960" alt="Task_2a_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/955abcf8-150b-4b36-b8d0-8fa545f6368d">
-
-<img width="607" alt="task_2c_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/d5c71fb7-b531-4cbc-8d18-7f22c57db111">
-
-<img width="476" alt="task_2b_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/cf2d5ece-d139-4346-9c41-ff6cb1a51214">
-
-<img width="469" alt="task_3a_transform" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/45422e98-f854-4d2f-ae39-7feb57bcd937">
-
-<img width="517" alt="Task_4_csv" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/f1a9a3ee-9365-42c4-9652-f46ac41b1db8">
-
-<img width="488" alt="Task_4_5_save_file" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/fae68176-0834-4edc-ae61-eac7c0b25754">
-
-<img width="665" alt="Task_6_SQL" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/c07cb170-99a4-4093-aac0-095b43289b66">
-
-<img width="593" alt="task_3b_transform" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/5c552eec-6677-49ab-950a-9e8adeabc480">
-
-<img width="488" alt="Task_7_log_content" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/322c71f7-2671-4662-b00d-1c5f645c6b46">
+![Task 2a: Extract]
+(<img width="960" alt="Task_2a_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/955abcf8-150b-4b36-b8d0-8fa545f6368d">)
+![Task 2c: Extract]
+(<img width="607" alt="task_2c_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/d5c71fb7-b531-4cbc-8d18-7f22c57db111">)
+![Task 2b: Extract]
+(<img width="476" alt="task_2b_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/cf2d5ece-d139-4346-9c41-ff6cb1a51214">
+![Task 3a: Transform]
+(<img width="469" alt="task_3a_transform" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/45422e98-f854-4d2f-ae39-7feb57bcd937">)
+![Task 4: CSV]
+(<img width="517" alt="Task_4_csv" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/f1a9a3ee-9365-42c4-9652-f46ac41b1db8">)
+![Task 4/5: Save File]
+(<img width="488" alt="Task_4_5_save_file" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/fae68176-0834-4edc-ae61-eac7c0b25754">)
+![Task 6: SQL]
+(<img width="665" alt="Task_6_SQL" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/c07cb170-99a4-4093-aac0-095b43289b66">)
+![Task 3b: Transform]
+(<img width="593" alt="task_3b_transform" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/5c552eec-6677-49ab-950a-9e8adeabc480">)
+![Task 7: Log Content]
+(<img width="488" alt="Task_7_log_content" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/322c71f7-2671-4662-b00d-1c5f645c6b46">)
 
