@@ -43,16 +43,26 @@ The script logs each stage of the ETL process to the `code_log.txt` file, includ
 ---
 
 This README provides an overview of the code, its usage, prerequisites, files involved, functions, and logging. Please ensure that the prerequisites are met before running the script, and refer to the log file for detailed progress updates during execution.
+## Images
 
-<img width="323" alt="Task_1_log_function" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/0b0abbf2-f2bc-4abd-b707-806dae24172d">
+![Task 1: Log Function](
+<img width="323" alt="Task_1_log_function" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/0b0abbf2-f2bc-4abd-b707-806dae24172d">)
+
 <img width="960" alt="Task_2a_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/955abcf8-150b-4b36-b8d0-8fa545f6368d">
+
 <img width="607" alt="task_2c_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/d5c71fb7-b531-4cbc-8d18-7f22c57db111">
+
 <img width="476" alt="task_2b_extract" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/cf2d5ece-d139-4346-9c41-ff6cb1a51214">
 
 <img width="469" alt="task_3a_transform" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/45422e98-f854-4d2f-ae39-7feb57bcd937">
+
 <img width="517" alt="Task_4_csv" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/f1a9a3ee-9365-42c4-9652-f46ac41b1db8">
+
 <img width="488" alt="Task_4_5_save_file" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/fae68176-0834-4edc-ae61-eac7c0b25754">
+
 <img width="665" alt="Task_6_SQL" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/c07cb170-99a4-4093-aac0-095b43289b66">
+
 <img width="593" alt="task_3b_transform" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/5c552eec-6677-49ab-950a-9e8adeabc480">
+
 <img width="488" alt="Task_7_log_content" src="https://github.com/Nicole09999/ETL_webscrapping_sql/assets/106644205/322c71f7-2671-4662-b00d-1c5f645c6b46">
 
